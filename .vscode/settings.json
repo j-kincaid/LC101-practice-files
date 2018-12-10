@@ -1,0 +1,5 @@
+{
+    "python.linting.pylintEnabled": false,
+    "workbench.colorTheme": "Visual Studio Dark",
+    "git.ignoreLimitWarning": true
+}
